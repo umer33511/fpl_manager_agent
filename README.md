@@ -43,8 +43,8 @@ The system predicts player performance using historical data and then uses a con
 ## Setup Instructions
 1. Clone the Repository
 ```bash
-      git clone https://github.com/umer33511/fpl_manager_agent.git
-      cd fpl_manager_agent
+git clone https://github.com/umer33511/fpl_manager_agent.git
+cd fpl_manager_agent
 ```
 2. Install Dependencies
 Create a requirements.txt file (or install manually) with the following packages:
